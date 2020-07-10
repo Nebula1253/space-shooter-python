@@ -1,0 +1,6 @@
+WASD, Arrow keys - movement
+Enter - start game
+P - pause
+Q - quit
+
+The green capsules are health pickups - collect one to regain one hit point
